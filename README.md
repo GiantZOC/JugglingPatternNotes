@@ -34,4 +34,7 @@ E waits for first pass, get pilf from F, turn replace F and pass to C
 F passer does pass to C pilf E, flip, place club on shoulder of D, run to A
 
 
-https://berkeleyjuggling.org/juggling-patterns/
+Holy Grail Practice
+9, 4, 5, 7, 4, 7
+9 is double, 4, is hold, 5 is zap, 7 is single
+local is double, zap, single or pause, pass, pass

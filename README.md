@@ -32,3 +32,6 @@ C does, pass, pass intercepted by B, pilf B, flip deliver to D, get pilf from D 
 D does  pass, get pass on shoulder, pass intercepted by E, pilf C, turn around become E
 E waits for first pass, get pilf from F, turn replace F and pass to C
 F passer does pass to C pilf E, flip, place club on shoulder of D, run to A
+
+
+https://berkeleyjuggling.org/juggling-patterns/
